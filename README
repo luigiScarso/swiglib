@@ -1,0 +1,18 @@
+From http://www.luatex.org 
+"""
+This project has the following objectives:
+
+    Setting up an infrastructure for building libraries for LuaTeX using Swig so that we stay close to the original api's.
+
+    Investigate libraries of different complexity. We also explore the impact of dependencies on other libraries.
+
+    Provide a set of common helpers that can be integrated in libraries.
+
+    Provide documentation on how to use this infrastructure and how to roll out your own.
+
+    Come up with a naming scheme that makes it possible to avoid clashes between similar libraries. 
+    In principle a user or macro package should be able to generate libraries independently of others and use these in a regular TeX setup.
+
+    Make a couple of working examples of libraries, available for all major platforms.
+"""
+This is a temporary repository for the BachoTeX/EuroTeX meeting 2013.
